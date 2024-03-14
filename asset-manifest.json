@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hemsida/static/css/main.67a8afa5.css",
+    "main.js": "/hemsida/static/js/main.551493f0.js",
+    "static/js/453.671b7853.chunk.js": "/hemsida/static/js/453.671b7853.chunk.js",
+    "static/media/jag.JPG": "/hemsida/static/media/jag.4814dfe1dd322b9976f9.JPG",
+    "index.html": "/hemsida/index.html",
+    "main.67a8afa5.css.map": "/hemsida/static/css/main.67a8afa5.css.map",
+    "main.551493f0.js.map": "/hemsida/static/js/main.551493f0.js.map",
+    "453.671b7853.chunk.js.map": "/hemsida/static/js/453.671b7853.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67a8afa5.css",
+    "static/js/main.551493f0.js"
+  ]
+}
